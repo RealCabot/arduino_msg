@@ -1,3 +1,2 @@
 Header header
-int64 left
-int64 right
+float64 speed
